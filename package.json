@@ -14,10 +14,12 @@
   },
   "dependencies": {
     "nuxt": "^1.0.0",
+    "stylus": "^0.54.5",
+    "stylus-loader": "^3.0.2",
+    "vue-i18n": "^8.0.0",
     "vue-konva": "^1.0.6",
     "vuedraggable": "^2.16.0",
-    "vuetify": "^1.1.9",
-    "vuex-i18n": "^1.10.5"
+    "vuetify": "^1.1.9"
   },
   "devDependencies": {
     "babel-eslint": "^8.2.1",
